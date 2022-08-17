@@ -18,6 +18,6 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primaryColor: Colors.blueAccent,
           primarySwatch: Colors.blue),
-        home: SongListScreen(),
+        home: const SongListScreen(),
       );
 }

@@ -16,12 +16,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   cached_network_image: ^3.2.1
   url_launcher: ^6.1.2
+  rename: ^2.0.1
   
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^1.0.0
+  flutter_lints: ^2.0.1
 
   # flutter splash packge start 
   flutter_native_splash: ^2.1.6

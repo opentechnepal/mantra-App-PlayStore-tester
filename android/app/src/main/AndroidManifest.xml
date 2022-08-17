@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.nepali_lyricapp_upgraded">
    <application
-        android:label="nepali_lyricapp_upgraded"
+        android:label="Mantra Nepali Lyric Chord 2022"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
